@@ -1,8 +1,0 @@
-B1 : Aditya Bhargava-Grokking Algorithms_ An Illustrated Guide for Programmers and Other Curious People-Manning Publications (2016)
-B2: Algorithhms 4th Edition by Robert Sedgewick, Kevin Wayne
-B3: Algorithm Design by Jon Kleinberg, Eva Tardos
-B4: Algorithms by Vazirani and Dasgupta
-B5: Elementary Algorithms
-B6: Introduction to Algorithms - 3rd Edition
-B7: Introduction to Algorithms by Udi Manber
-B8: The Algorithm Design Manual by Steven S. Skiena
